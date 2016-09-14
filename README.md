@@ -16,4 +16,4 @@ My Avea bulb is faulty (I think), in that it is completely unable to turn Red, a
 1. Test the red functionality of this application.
 2. Confirm that this program will not break the red functionality of your Elgato Avea bulb.
 
-¯\_(ツ)_/¯
+ ¯\_(ツ)_/¯
